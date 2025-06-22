@@ -22,3 +22,4 @@ onnxruntime==1.22.0
 torch==2.0.0
 torchaudio==2.0.0
 torchvision==0.15.1
+openai==1.30.3
