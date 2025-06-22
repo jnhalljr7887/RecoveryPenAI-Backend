@@ -1,4 +1,6 @@
-# RecoveryPen AI Dependencies
 fastapi
 uvicorn
 pydantic
+openai
+python-dotenv
+python-docx
