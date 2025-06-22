@@ -1,4 +1,4 @@
-// === backend/requirements.txt ===
+# RecoveryPen AI Dependencies
 fastapi
 uvicorn
 pydantic
