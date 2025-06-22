@@ -4,3 +4,5 @@ pydantic
 openai
 python-dotenv
 python-docx
+python-multipart
+
