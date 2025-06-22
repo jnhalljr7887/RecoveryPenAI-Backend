@@ -93,7 +93,7 @@ starlette==0.36.3
 sympy==1.12
 tenacity==8.2.3
 threadpoolctl==3.4.0
-tokenizers==0.15.1
+tokenizers==0.19.1
 torch==2.0.0
 torchaudio==2.0.0
 torchvision==0.15.1
