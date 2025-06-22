@@ -127,9 +127,9 @@ sympy==1.12
 tenacity==8.2.3
 threadpoolctl==3.4.0
 tokenizers==0.15.1
-torch==2.5.1+cpu
-torchaudio==2.5.1+cpu
-torchvision==0.16.1+cpu
+torch==2.2.2+cpu
+torchaudio==2.2.2
+torchvision==0.17.2
 tqdm==4.66.2
 transformers==4.40.2
 typer==0.9.0
@@ -147,4 +147,4 @@ yarl==1.9.4
 zipp==3.17.0
 zstandard==0.22.0
 
---find-links https://download.pytorch.org/whl/torch_stable.html
+--find-links https://download.pytorch.org/whl/cpu
